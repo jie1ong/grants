@@ -4,8 +4,13 @@ The Ethereum Community Fund (ECF) is a non-profit initiative founded by, compris
 
 ![Ethereum Community Fund](https://media-exp1.licdn.com/dms/image/C511BAQHOp2j6pRVNFg/company-background_10000/0?e=2159024400&v=beta&t=JUOtkK46uKYaLvvAHEtAzi8Ql_W-f03IKsbh9fxwyAA)
 
-## Supporting Projects and Grantees
+## Contents
 
+- [Supporting Projects and Grantees](#supporting-projects-and-grantees)
+- [Community](#community)
+- [Contributions](#contributions)
+
+## Supporting Projects and Grantees
 
 ### [Linkdrop](https://linkdrop.io/wallet-widget/)
 
@@ -190,6 +195,11 @@ Latest update: “We’ve launched Clovers Network on August 20th, 2019 during B
 ### [XLNT](https://xlnt.co/)
 
 #tooling, https://xlnt.co/
+
+## Community
+
+* [Hacker Moon](https://www.hackermoon.io/)
+* [Telegram](https://t.me/)
 
 ## Contributions
 
